@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.puretelecom.ie	TRUE	/	FALSE	1999999999	language	en-gb
+www.puretelecom.ie	TRUE	/	FALSE	1999999999	currency	EUR
+www.puretelecom.ie	TRUE	/	FALSE	1999999999	OCSESSID	1df7c69cdea5f6e6ef2df34449
+

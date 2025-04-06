@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 25 Mar 2025 16:52:36 at https://www.puretelecom.ie/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.puretelecom.ie/ -O1 "D:\website\sunrise" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:53:41	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.puretelecom.ie/)
+16:55:17	Warning: 	Link https://www.puretelecom.ie/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+16:55:19	Warning: 	File not parsed, looks like binary: https://www.puretelecom.ie/image/catalog/content/who/paul-and-alan.webp
+16:55:53	Warning: 	File not parsed, looks like binary: https://www.puretelecom.ie/image/catalog/blog/working-it/working-with-it-partners-to-provide-the-best-broadband-for-business-5.webp
+16:56:01	Warning: 	File not parsed, looks like binary: https://www.puretelecom.ie/image/catalog/blog/strong-desire/pexels-ron-lach-8154667.webp
+16:56:01	Warning: 	File not parsed, looks like binary: https://www.puretelecom.ie/image/catalog/blog/impact-social-media-voting/man-hand-using-smartphone-typing-live-chat-chatting-on-application-communication-digital-web-and-social-network-concept-social-media-application-chat-box-photo.webp
+16:56:01	Warning: 	File not parsed, looks like binary: https://www.puretelecom.ie/image/catalog/blog/mental-health/paul-connell-ceo-pure-telecom-having-pure-craic-gaming-online-2.webp
+16:56:15	Warning: 	Link https://www.puretelecom.ie/blog/pure-telecom-comreg-statement not scanned (follow robots meta tag)
+16:56:34	Warning: 	File not parsed, looks like binary: https://www.puretelecom.ie/image/catalog/blog/working-it/working-with-it-partners-to-provide-the-best-broadband-for-business.webp
+16:56:34	Warning: 	File not parsed, looks like binary: https://www.puretelecom.ie/image/catalog/blog/working-it/working-with-it-partners-to-provide-the-best-broadband-for-business-4.webp
+16:56:34	Warning: 	File not parsed, looks like binary: https://www.puretelecom.ie/image/catalog/blog/working-it/working-with-it-partners-to-provide-the-best-broadband-for-business-3.webp
+16:56:35	Warning: 	Link https://www.puretelecom.ie/careers/career-form-customer-care-advisor not scanned (follow robots meta tag)
+16:56:36	Warning: 	Link https://www.puretelecom.ie/careers/career-form-sales-representative not scanned (follow robots meta tag)
+16:56:36	Warning: 	Link https://www.puretelecom.ie/careers/career-form-technical not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 0 seconds : 306 links scanned, 304 files written (33145951 bytes overall) [27673310 bytes received at 115305 bytes/sec], 7993611 bytes transferred using HTTP compression in 149 files, ratio 27%, 19.1 requests per connection
+(1 errors, 13 warnings, 0 messages)
